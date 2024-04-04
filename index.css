@@ -1,0 +1,11 @@
+body {
+  font-size: large;
+  font-style: normal;
+  font-display: middle;
+  background-color: aqua;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
