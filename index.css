@@ -6,6 +6,10 @@ body {
   text-align: center;
 }
 
+.Header {
+  border: 2px;
+}
+
 li {
   list-style: none;
 }
